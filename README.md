@@ -1,6 +1,6 @@
 # Projects in Pandas, Numpy and Scikit-Learn
 
-Each folder contains various projects using pandas,numpy,sci-kit learn libraries 
+Each folder contains various projects using pandas,numpy,scikit-learn libraries 
 
 | Python Library     | Projects | Purpose |
 | :---        |    :----:   |          ---: |
